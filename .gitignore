@@ -1,2 +1,8 @@
 __pycache__/
 .venv/
+downloads/
+ytdownloads.db
+help.py
+aster/
+
+.gitignore
