@@ -1,0 +1,13 @@
+streamlit
+ollama
+groq
+openai
+beautifulsoup4
+requests
+duckduckgo-search
+scikit-learn
+# pocketbase
+pytube
+yt-dlp[default]
+youtube_transcript_api
+pandas
