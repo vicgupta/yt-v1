@@ -1,4 +1,4 @@
-from aster.db.sqlite3orm import SQLite3ORM
+from sqlite3orm import SQLite3ORM
 db = SQLite3ORM("ytdownloads.db")
 
 # db.drop_table("downloads") 
