@@ -1,8 +1,6 @@
 __pycache__/
 .venv/
 downloads/
-ytdownloads.db
-help.py
 aster/
-
+ytdownloads.db
 .gitignore
